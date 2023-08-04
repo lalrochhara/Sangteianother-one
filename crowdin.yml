@@ -1,0 +1,3 @@
+files:
+  - source: /Sangtei/langs/en.yaml
+    translation: /Sangtei/langs/%two_letters_code%.json
