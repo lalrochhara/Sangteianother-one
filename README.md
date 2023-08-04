@@ -1,4 +1,4 @@
-![Sangtei](https://i.imgur.com/IYqzviU.jpg)
+![Sangtei](https://i.ibb.co/3W5Wq9v/image-1.png)
 # Miss Sangtei // @Sangtei
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -22,11 +22,11 @@ A modular telegram Python bot running on python3 with an SQLalchemy database.
 
 Originally a marie fork - Kigyō has evolved further and was built to be more beneficial for Anime Chats.
 
-It can be found on telegram as [Kigyō](https://t.me/Sangtei).
+It can be found on telegram as [Miss Sangtei](https://t.me/SangteiBot).
 
 ⚠️ Warning: The support group does not provide assistance on forks, if you forked the code or ran your own custom bot you should know your way around the code.
 
-The Support group can be reached out to at [Eagle Union](https://t.me/YorktownEagleUnion), where you can ask for help setting up our bot in your group, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
+The Support group can be reached out to at [Our Support](https://t.me/SangteiSupport), where you can ask for help setting up our bot in your group, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
 
 
