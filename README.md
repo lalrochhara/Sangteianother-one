@@ -20,7 +20,7 @@
 
 A modular telegram Python bot running on python3 with an SQLalchemy database.
 
-Originally a marie fork - Kigyō has evolved further and was built to be more beneficial for Anime Chats.
+Originally a marie fork - Sangtei has evolved further and was built to be more beneficial for Anime Chats.
 
 It can be found on telegram as [Miss Sangtei](https://t.me/SangteiBot).
 
@@ -35,7 +35,7 @@ The Support group can be reached out to at [Our Support](https://t.me/SangteiSup
 
 # How to setup
 
-- `git clone https://github.com/AnimeKaizoku/Sangtei`
+- `git clone https://github.com/lalrochhara/Sangtei`
 - `cd Sangtei`
 - `cp sample_config.ini config.ini`
 - *Fill in all the vars*
